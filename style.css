@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+h1{
+    color: '#2D2D2D';
+    height: 40%;
+    width: 30%;
+    padding: 0% 35%;
+    font-size: 35px;
+}
+
+body{
+    background-color: rgb(79, 170, 170);
+}
+
+.main{
+    height: 20%;
+    background-color: rgb(73, 131, 188);
+    border-radius: 30px;
+
+}
+
+
+article{
+    background-color:bisque;
+    border-radius: 35px;
+}
+
+p{
+    margin: 1%;
+}
+
+h2{
+    margin: 1%;
+}
+
